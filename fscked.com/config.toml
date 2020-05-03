@@ -1,0 +1,4 @@
+baseURL = "http://fscked.com"
+languageCode = "en-us"
+title = "fscked.com"
+theme = "ananke"
