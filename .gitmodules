@@ -1,3 +1,12 @@
 [submodule "fscked.com/themes/ananke"]
 	path = fscked.com/themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "fscked.com/themes/axiom"]
+	path = fscked.com/themes/axiom
+	url = https://github.com/marketempower/axiom.git
+[submodule "paydata.org/themes/navigator-hugo"]
+	path = paydata.org/themes/navigator-hugo
+	url = https://github.com/themefisher/navigator-hugo.git
+[submodule "paydata.org/themes/academic"]
+	path = paydata.org/themes/academic
+	url = https://github.com/sourcethemes/academic-kickstart.git
