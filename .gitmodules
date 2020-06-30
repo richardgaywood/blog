@@ -10,3 +10,6 @@
 [submodule "paydata.org/themes/academic"]
 	path = paydata.org/themes/academic
 	url = https://github.com/sourcethemes/academic-kickstart.git
+[submodule “paydata.org/themes/docsy”]
+	path = paydata.org/themes/docsy
+	url = https://github.com/google/docsy.git
