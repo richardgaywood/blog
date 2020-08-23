@@ -1,5 +1,6 @@
 **/.Ulysses-Group.plist
 paydata.org/public
 fscked.com/public
-**/resources/_gen
+**/resources/_gen/
+resources/_gen/
 **/*.icloud
