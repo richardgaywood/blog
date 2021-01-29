@@ -4,3 +4,4 @@ fscked.com/public
 **/resources/_gen/
 resources/_gen/
 **/*.icloud
+**/node_modules/**

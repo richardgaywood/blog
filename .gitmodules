@@ -13,3 +13,12 @@
 [submodule "paydata.org/themes/docsy"]
 	path = paydata.org/themes/docsy
 	url = https://github.com/google/docsy.git
+[submodule "tumblr-migration/tumblr2hugomarkdown"]
+	path = tumblr-migration/tumblr2hugomarkdown
+	url = https://github.com/Wysie/tumblr2hugomarkdown.git
+[submodule "objection-salad.com/themes/ananke"]
+	path = objection-salad.com/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "objection-salad.com/themes/stack"]
+	path = objection-salad.com/themes/stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
