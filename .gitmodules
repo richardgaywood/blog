@@ -22,3 +22,6 @@
 [submodule "objection-salad.com/themes/stack"]
 	path = objection-salad.com/themes/stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack
+[submodule "objection-salad.com/themes/hugo-theme-stack"]
+	path = objection-salad.com/themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
