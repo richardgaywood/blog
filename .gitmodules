@@ -16,12 +16,6 @@
 [submodule "tumblr-migration/tumblr2hugomarkdown"]
 	path = tumblr-migration/tumblr2hugomarkdown
 	url = https://github.com/Wysie/tumblr2hugomarkdown.git
-[submodule "objection-salad.com/themes/ananke"]
-	path = objection-salad.com/themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "objection-salad.com/themes/stack"]
-	path = objection-salad.com/themes/stack
-	url = https://github.com/CaiJimmy/hugo-theme-stack
 [submodule "objection-salad.com/themes/hugo-theme-stack"]
 	path = objection-salad.com/themes/hugo-theme-stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack/
