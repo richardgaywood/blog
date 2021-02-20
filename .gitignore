@@ -1,6 +1,8 @@
 **/.Ulysses-Group.plist
 paydata.org/public
 fscked.com/public
+objection-salad.com/public
 **/resources/_gen/
 resources/_gen/
 **/*.icloud
+**/node_modules/**
