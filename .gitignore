@@ -6,3 +6,4 @@ objection-salad.com/public
 resources/_gen/
 **/*.icloud
 **/node_modules/**
+workspace.code-workspace
