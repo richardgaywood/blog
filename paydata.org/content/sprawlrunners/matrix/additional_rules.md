@@ -7,6 +7,7 @@ description: Extra bits and pieces
 date: 2020-11-27
 lastmod: 2020-12-29
 weight: 800
+aliases: ["sprawlrunners/deckers/additional_rules.md"]
 ---
 
 ## Commlink defence programs

@@ -5,6 +5,7 @@ type: docs
 description: Disregard stealth; brick devices instead
 date: 2020-11-27
 weight: 500
+aliases: ["sprawlrunners/deckers/cybercombat.md"]
 ---
 
 The rules in [hacking]({{< relref "hacking.md" >}}) cover stealthy intrusion techniques so a decker can discreetly manipulate devices for their own ends. But if you want to take something offline right fraggin' now, what you need is cybercombat.

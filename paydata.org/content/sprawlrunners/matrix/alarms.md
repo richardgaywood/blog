@@ -5,6 +5,8 @@ type: docs
 description: How the authorities catch deckers
 date: 2020-11-27
 weight: 550
+aliases: ["sprawlrunners/deckers/alarms.md"]
+
 ---
 
 Alarms are a game mechanic that simulate how aware the authorities are that there is an intruder, and how close they are to finding them.

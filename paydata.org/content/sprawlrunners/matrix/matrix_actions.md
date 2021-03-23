@@ -5,6 +5,7 @@ type: docs
 description: All kinds of things deckers can do
 date: 2021-01-16
 weight: 250
+aliases: ["sprawlrunners/deckers/matrix_actions.md"]
 ---
 
 ## Offensive & defensive actions

@@ -6,6 +6,7 @@ description: What to hack and how to hack it
 date: 2020-07-05
 lastmod: 2020-12-23
 weight: 275
+aliases: ["sprawlrunners/deckers/hacking.md"]
 ---
 
 ## Types of hacking target
