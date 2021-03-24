@@ -7,7 +7,6 @@ date: 2021-01-16
 lastmod: 2021-03-23
 weight: 525
 aliases: ["sprawlrunners/deckers/combat_decking.md"]
-
 ---
 
 The rise of wireless hacking has made the decker much more useful and powerful on the modern battlefield. Deckers are now key parts of combat squads, performing counter-hacking, defening against attacking deckers, hiding their team from sight on the Matrix, and running denial-of-service attacks against opposing forces.

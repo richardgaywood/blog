@@ -24,7 +24,7 @@ See [Cybercombat]({{< relref "cybercombat.md" >}}).
 ### Sleaze hack
 Requires: Persuasion utility \
 Rolls: Hacking vs target Hardening \
-Use on: unattended devices, PANs, hosts
+Use on: unattended devices, PANs, hosts, ICE
 
 Gain access to something, hopefully without anyone noticing. See [Hacking]({{< relref "hacking.md" >}}).
 {{% /pageinfo %}} 
