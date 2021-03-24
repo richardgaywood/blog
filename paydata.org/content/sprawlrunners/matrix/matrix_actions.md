@@ -4,6 +4,7 @@ linkTitle: Actions
 type: docs
 description: All kinds of things deckers can do
 date: 2021-01-16
+lastmod: 2021-03-23
 weight: 250
 aliases: ["sprawlrunners/deckers/matrix_actions.md"]
 ---
@@ -11,28 +12,18 @@ aliases: ["sprawlrunners/deckers/matrix_actions.md"]
 ## Offensive & defensive actions
 
 {{% pageinfo %}} 
-### Cybercombat
+### Cybercombat hack
 Requires: Fighting utility \
-Rolls: Hacking (cybercombat specialisation) vs target Firewall (Matrix Parry) \
-Use on: s-PANs, PANs, devices, ICE
+Rolls: Hacking vs target Firewall \
+Use on: s-PANs, PANs, standalone devices, ICE
 
 See [Cybercombat]({{< relref "cybercombat.md" >}}).
 {{% /pageinfo %}} 
 
 {{% pageinfo %}} 
-### DoS attack
-Requires: Fighting utility \
-Rolls: Hacking (cybercombat specialisation) vs target number \
-Use on: devices
-
-See [DoS attacks]({{< relref "combat_decking.md#denial-of-service-attacks" >}}).
-{{% /pageinfo %}} 
-
-
-{{% pageinfo %}} 
-### Sleaze
+### Sleaze hack
 Requires: Persuasion utility \
-Rolls: Hacking (sleaze specialisation) vs target Hardening \
+Rolls: Hacking vs target Hardening \
 Use on: unattended devices, PANs, hosts
 
 Gain access to something, hopefully without anyone noticing. See [Hacking]({{< relref "hacking.md" >}}).
@@ -40,22 +31,44 @@ Gain access to something, hopefully without anyone noticing. See [Hacking]({{< r
 
 
 {{% pageinfo %}} 
-### Hide
-Requires: Stealth utility \
-Rolls: Hacking (sleaze specialisation), maybe vs Notice \
-Use on: your own s-PAN on the local mesh, or your own persona a host
+### DoS attack
+Requires: Fighting utility \
+Rolls: Hacking vs target's Smarts attribute \
+Use on: devices
 
-Can be used on the local mesh to disguise and hide your s-PAN from observers; see [Matrix Stealth]({{< relref "combat_decking.md#matrix-stealth" >}}) for more. If nobody is actively looking, the target number for this test is 4. If you are being actively hunted by ICE or a persona running the Notice utility, it is opposed by the hunter's Hacking skill.
+Flood a Matrix target with bad traffic to impede it's functionality. See [DoS attacks]({{< relref "combat_decking.md#denial-of-service-attacks" >}}).
+{{% /pageinfo %}} 
+
+
+
+{{% pageinfo %}} 
+### Hide (on local mesh)
+Requires: Stealth utility \
+Rolls: Hacking, maybe vs Notice \
+Use on: your own s-PAN
+
+Can be used on the local mesh to disguise and hide your s-PAN from observers; see [Matrix Stealth]({{< relref "combat_decking.md#matrix-stealth" >}}) for more. If nobody is actively looking, the target number for this test is 4. If you are being actively hunted (eg by a persona running the Notice utility) it is opposed by the hunter's Hacking skill.
 
 Can be used within a host to hide your persona from ICE and security spiders, see "Deceive ICE" on Sprawlrunners pg 39 for more.
 {{% /pageinfo %}} 
+
+
+{{% pageinfo %}} 
+### Hide (in host)
+Requires: Stealth utility \
+Rolls: Hacking, maybe vs Notice \
+Use on: your persona
+
+Used within a host to hide your persona from ICE and security spiders, see "Deceive ICE" on Sprawlrunners pg 39 for more.
+{{% /pageinfo %}} 
+
 
 
 ## Configuration commands
 
 {{% pageinfo %}} 
 ### Improvise utility
-Rolls: Hacking *(no specialisation)*
+Rolls: Hacking
 
 See Sprawlrunners pg 43.
 {{% /pageinfo %}} 
@@ -92,7 +105,7 @@ Copying or erasing a very large number of files under time pressure might be a d
 {{% pageinfo %}} 
 ### Decrypt file
 Requires: Decryption utility \
-Rolls: Hacking *(no specialisation)* vs file encryption rating die type \
+Rolls: Hacking vs file encryption rating die type \
 Use on: any encrypted file
 
 Decrypting a number of files is usually a dramatic task.
@@ -102,12 +115,12 @@ Decrypting a number of files is usually a dramatic task.
 
 {{% pageinfo %}} 
 ### Manipulate device
-Rolls: Hacking (sleaze specialisation) or varies \
+Rolls: Hacking or varies \
 Use on: any device
 
 Can be used to give commands to a device, or manipulate it in other ways. Maglocks can be told to lock or unlock, cameras can be shut down or told to loop a fragment of footage. Commlink calls in progress can be snooped on. The other end of a commlink call can be traced to a physical location.
 
-If the device is part of a PAN or WAN, the PAN or WAN must be hacked first. If the device is part of an s-PAN, the s-PAN must be crashed first.
+If the device is part of a PAN or WAN, the PAN or WAN must be hacked first. If the device is part of an s-PAN, the s-PAN must be crashed first, then the (now unattended) device must be hacked.
 
 In general, the target number for this roll is the target device's Firewall stat.
 {{% /pageinfo %}} 
@@ -137,12 +150,12 @@ Free action. Give a one-sentence command to a drone or vehicle autopilot. If the
 
 {{% pageinfo %}} 
 ### Enter host/node
-Rolls: None or as Sleaze, above \
+Rolls: None or as Sleaze Hacking, above \
 Use on: host/node
 
-Enter a host (from the local mesh) or a node (within a host that has multiple nodes.) Simultaneously switches the decker's mode from AR to VR.
+Enter a host (from the local mesh) or a node (within a host that has multiple nodes.) When entering a node from the local mesh, this also switches the decker's interface from AR to VR.
 
-Some hosts/nodes have security checks for access; if so, they must be successfully hacked with a Sleaze roll to enter.
+Some hosts/nodes have security checks for access; if so, they must be successfully hacked with a Sleaze Hacking roll to enter.
 
 To exit a host/node again, see Jack Out, above.
 {{% /pageinfo %}} 
@@ -151,7 +164,7 @@ To exit a host/node again, see Jack Out, above.
 {{% pageinfo %}} 
 ### Analyse
 Requires: Notice utility \
-Rolls: Hacking *(no specialisation)* \
+Rolls: Hacking \
 Use on: any target
 
 Get more information about a persona, ICE, icon, or device.

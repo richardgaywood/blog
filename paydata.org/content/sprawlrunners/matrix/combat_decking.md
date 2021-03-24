@@ -4,6 +4,7 @@ linkTitle: Combat decking
 type: docs
 description: How the decker can help in combat
 date: 2021-01-16
+lastmod: 2021-03-23
 weight: 525
 aliases: ["sprawlrunners/deckers/combat_decking.md"]
 
