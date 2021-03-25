@@ -4,7 +4,7 @@ linkTitle: Actions
 type: docs
 description: All kinds of things deckers can do
 date: 2021-01-16
-lastmod: 2021-03-23
+lastmod: 2021-03-25
 weight: 250
 aliases: ["sprawlrunners/deckers/matrix_actions.md"]
 ---
@@ -12,7 +12,7 @@ aliases: ["sprawlrunners/deckers/matrix_actions.md"]
 ## Offensive & defensive actions
 
 {{% pageinfo %}} 
-### Cybercombat hack
+### Cybercombat Hack
 Requires: Fighting utility \
 Rolls: Hacking vs target Firewall \
 Use on: s-PANs, PANs, standalone devices, ICE
@@ -21,7 +21,7 @@ See [Cybercombat]({{< relref "cybercombat.md" >}}).
 {{% /pageinfo %}} 
 
 {{% pageinfo %}} 
-### Sleaze hack
+### Sleaze Hack
 Requires: Persuasion utility \
 Rolls: Hacking vs target Hardening \
 Use on: unattended devices, PANs, hosts, ICE
@@ -31,12 +31,12 @@ Gain access to something, hopefully without anyone noticing. See [Hacking]({{< r
 
 
 {{% pageinfo %}} 
-### DoS attack
+### DoS Hack
 Requires: Fighting utility \
 Rolls: Hacking vs target's Smarts attribute \
 Use on: devices
 
-Flood a Matrix target with bad traffic to impede it's functionality. See [DoS attacks]({{< relref "combat_decking.md#denial-of-service-attacks" >}}).
+Flood a Matrix target with bad traffic to impede its functionality. See [DoS attacks]({{< relref "combat_decking.md#denial-of-service-attacks" >}}).
 {{% /pageinfo %}} 
 
 
@@ -95,12 +95,14 @@ See Sprawlrunners pg 38. Can be a Free action, but then comes with risk of dumps
 Rolls: N/A or as required \
 Use on: any file(s)
 
-Can be used to copy, edit, erase, or search for files or other data in any kind of store - a host, a node, a commlink, a data chip, etc.
+Can be used to copy, edit, erase, or search for files or other data in any kind of store - a host, a node, a commlink, a data chip, etc. Obviously the decker has to have access to the store first, either legitimately or via a hacking action.
 
-Doesn't usually require a test, but if a series of edits to the files have to fool someone (or the erases to be made are subtle eg. removing entries in an access log) then a test might be needed.
+The actual file manipulations do not usually require a test. However, if the purpose of the edits requires skill - eg. they are intended to forge credentials, hide suspicious entries in an access log - then a test may be required to see how that goes.
 
 Copying or erasing a very large number of files under time pressure might be a dramatic task.
 {{% /pageinfo %}} 
+
+
 
 {{% pageinfo %}} 
 ### Decrypt file
@@ -108,21 +110,19 @@ Requires: Decryption utility \
 Rolls: Hacking vs file encryption rating die type \
 Use on: any encrypted file
 
-Decrypting a number of files is usually a dramatic task.
+Decrypting a number of files under time pressure is usually a dramatic task.
 {{% /pageinfo %}} 
 
 
 
 {{% pageinfo %}} 
 ### Manipulate device
-Rolls: Hacking or varies \
+Rolls: Hacking or varies, usually vs target's Hardening \
 Use on: any device
 
 Can be used to give commands to a device, or manipulate it in other ways. Maglocks can be told to lock or unlock, cameras can be shut down or told to loop a fragment of footage. Commlink calls in progress can be snooped on. The other end of a commlink call can be traced to a physical location.
 
 If the device is part of a PAN or WAN, the PAN or WAN must be hacked first. If the device is part of an s-PAN, the s-PAN must be crashed first, then the (now unattended) device must be hacked.
-
-In general, the target number for this roll is the target device's Firewall stat.
 {{% /pageinfo %}} 
 
 
@@ -133,15 +133,19 @@ In general, the target number for this roll is the target device's Firewall stat
 
 Used by a rigger to assume jumped-in control of a drone or vehicle. 
 
-This is a normal action if the rigger is not already connected via a cable or a drone deck's s-PAN. Otherwise, it's a free action.
+* If the rigger does not own the vehicle or drone, they'll need to make a Sleaze Hacking roll to Jump In to it. 
+* Jump In can be done wirelessly or over a wired connection, but to do it wirelessly, the rigger must be using a dronedeck.
+* This is a free action if the rigger is already connected to the target via a cable or an s-PAN via their dronedeck. Otherwise, it's a normal action.
 {{% /pageinfo %}} 
 
 
 
 {{% pageinfo %}} 
-### Give command
+### Command Autopilot
 
-Free action. Give a one-sentence command to a drone or vehicle autopilot. If the rigger is using a drone deck and has multiple drones/vehicles in its s-PAN, they can issue the same command to any number of the drones/vehicles for a single free action. 
+Free action. Give a one-sentence command to a drone or vehicle autopilot. This can be combined with a Sleaze Hack to target drones or vehicles the actor does not own or control.
+
+If a rigger is using a dronedeck that has multiple drones/vehicles in its s-PAN, they can issue the same command to any number of the drones/vehicles for a single free action. 
 {{% /pageinfo %}} 
 
 

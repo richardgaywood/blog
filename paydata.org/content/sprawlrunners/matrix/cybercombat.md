@@ -4,7 +4,7 @@ linkTitle: Cybercombat
 type: docs
 description: Disregard stealth; brick devices instead
 date: 2020-11-27
-lastmod: 2021-03-23
+lastmod: 2021-03-25
 weight: 500
 aliases: ["sprawlrunners/deckers/cybercombat.md"]
 ---

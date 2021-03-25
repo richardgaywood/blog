@@ -4,7 +4,7 @@ linkTitle: Alarms
 type: docs
 description: How the authorities catch deckers
 date: 2020-11-27
-lastmod: 2021-03-23
+lastmod: 2021-03-25
 weight: 550
 aliases: ["sprawlrunners/deckers/alarms.md"]
 ---

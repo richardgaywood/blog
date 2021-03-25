@@ -4,7 +4,7 @@ linkTitle: Devices
 type: docs
 description: Stats for devices, stuff that matters
 date: 2021-03-23
-lastmod: 2021-03-23
+lastmod: 2021-03-25
 weight: 200
 ---
 
@@ -13,7 +13,7 @@ weight: 200
 Every device active on the Matrix falls into one of a small number of types:
  
 * Commlink
-* Cyberdeck 
+* Cyberdeck / dronedeck
 * Host
 * Standalone device - any device that has a Matrix connection and isn't one of the above.
 
@@ -27,7 +27,7 @@ All matrix devices are defined by a small number of stats:
 * **Hardening** (also called **System Toughness** in Sprawlrunners): how resistant the system is to outside manipulations. Used as the target number for sleaze hacking rolls, and as the toughness target in damage rolls.
 * **Firewall** (called **Cyberspace Parry** in Sprawlrunners): the device's capability to block incoming hostile datastreams. Used as the target number for cybercombat hacking rolls.
 
-For all devices except cyberdecks, Hardening is derived from System Rating in a similar manner to Toughness in normal SWADE; half the die type, plus a bonus. The bonus is 0/+1/+2 depending on the device type. Firewall is 2 if the device lacks any active intrusion scanning. If it has such protection, then it is equal to toughness.
+For all devices except cyberdecks, Hardening is derived from System Rating in a similar manner to Toughness in normal SWADE; half the die type, plus a bonus. The bonus is 0/+1/+2 depending on the device type. Firewall is 2 if the device lacks any active intrusion scanning. If it has such protection, then it is equal to Hardening.
 
 ## Stats
 
@@ -35,7 +35,7 @@ Statlines below are listed as ([System Rating]) [Hardening] / [Firewall].
 
 <!-- https://docs.google.com/spreadsheets/d/1u1-zV-cv1DeGR5zmPJYNVKa8yY8IP2t2vUXlhB9CvUg/edit#gid=0 -->
 
-| Grade    | Standalone device | Commlink/PAN    | Drone/Vehicle    | Host        | Cyberdeck/s-PAN                      |
+| Grade    | Standalone device | Commlink/PAN    | Drone/Vehicle [^4] | Host        | Cyberdeck/s-PAN                      |
 |----------|-------------------|-----------------|------------------|-------------|--------------------------------------|
 | Cheap    | (d4) 2 / 2        | (d4) 3 / 2      |                  | (d4) 4 / 4  | 4 / varies ("student")               |
 | Civilian | (d6) 3 / 2        | (d6) 4 / 2 [^2] | (d6) 4 / 2 [^3]  | (d6) 5 / 5  | 5 / varies ("cheap")                 |
@@ -46,3 +46,4 @@ Statlines below are listed as ([System Rating]) [Hardening] / [Firewall].
 [^1]: Very unusual for these devices to be running unattended.
 [^2]: Can run an [active defence package]({{< relref "additonal_rules.md#commlink-defence-programs.md" >}})  that boosts its Firewall stat to the same as its Hardening one.
 [^3]: Vehicles or drones in use will almost always be part of a PAN or s-PAN, and protected by it.
+[^4]: Drone/vehicle system rating is just the autopilot's Smarts die.

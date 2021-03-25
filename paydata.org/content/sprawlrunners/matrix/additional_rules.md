@@ -5,7 +5,7 @@ linkTitle: Additional rules
 type: docs
 description: Extra bits and pieces
 date: 2020-11-27
-lastmod: 2021-03-23
+lastmod: 2021-03-25
 weight: 800
 aliases: ["sprawlrunners/deckers/additional_rules.md"]
 ---
@@ -16,6 +16,7 @@ Occasionally, particularly cautious people might spend some extra cash on defenc
 
 * **Active integrity checking**: the commlink devotes a significant portion of its processing power to conducting internal scans, and a significant portion of its storage to storing known-good states that it can roll back to in an emergency. This provides a measure of defence against cybercombat. The device can use its Hardening stat in place of its Firewall stat. 
 * **Encrypted storage**: all files in the commlink's storage are encrypted, with a rating equal to the commlink's dice rating.
+* **Parabellum**: the commlink runs a limited form of the Killer ICE. Each time a decker fails a Sleaze Hack or attempts a Cybercombat or DoS Hack against the commlink, the ICE will automatically respond with a counterattack, rolling the commlink's Rating vs the cyberdeck's Firewall. If it hits, it deals Rating+d4 matrix damage (+d6 on a raise).
 
 ## Back doors
 
