@@ -46,4 +46,4 @@ Secure-PANs, guarded over by a watchful decker, cannot be sleaze hacked. Any wou
 
 A WAN can only be hacked by entering the host or node that controls it, in VR, and avoiding or defeating the ICE within. See Sprawlrunners for rules. Once a decker has gained access to the host or node that is running the WAN, they can issue commands to the devices connected to the WAN. 
 
-When hacking tough hosts, it can be particularly useful to compromise a device in its WAN and use it as a [back door]({{< relref "additonal_rules.md#back-doors.md" >}})
+When hacking tough hosts, it can be particularly useful to compromise a device in its WAN and use it as a [back door]({{< relref "additional_rules.md#back-doors" >}})
