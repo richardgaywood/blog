@@ -6,6 +6,8 @@ type: docs
 weight: 125
 ---
 
+{{% pageinfo %}}<a href="/sprawlrunners/downtime/_print/">Click here to see all rules in this section on one page</a> (good for printing or saving as a PDF.){{% /pageinfo %}}
+
 Sprawlrunners uses a fully abstracted resource system, replacing the traditional RPG structure of buying gear and tracking a currency balance with a mechanic called *Logistic Points*. This works well for some tables, but we found it a little jarring for the characters to have no reason to discuss or negotiate the in-game payments for the jobs they undertake.
 
 The rules in this section consist of several linked systems that work together to nudge the feel of Sprawlrunners a little closer to how Shadowrun works, but still without requiring detailed tracking of the resources each character has to draw on.
