@@ -4,195 +4,17 @@ linkTitle: SR Edition FAQ
 type: docs
 draft: true
 date: 2020-07-19
+modified: 2022-03-12
 weight: 10
 ---
-
-<!-- Copy and paste the converted output. -->
 
 
 
 ## What version of Shadowrun should I play?
 
-<p style="text-align: right">
-<em>compiled and edited by PenLlawen (<a href="https://twitter.com/penllawen?lang=en">twitter</a>, <a href="https://www.reddit.com/user/penllawen">reddit</a>, <a href="https://forums.shadowruntabletop.com/index.php?action=profile;u=151584">SR forums</a>)</em></p>
-
-
-<p style="text-align: right">
-<em>discuss this document: (<a href="https://www.reddit.com/r/Shadowrun/comments/f89hka/which_edition_of_shadowrun_faq/">Reddit thread</a>)</em></p>
 
 
 
-## Why this is a difficult question
-
-**When it comes to Shadowrun editions, there are no easy answers; only annoying compromises. Sorry!**
-
-Each version of SR comes complete with a significant number of foibles and fiddly bits, and I can all but guarantee that some of those are going to drive you mad. Every version of SR comes with bits you’re going to want to patch or houserule over. There is no clear winner in that department.
-
-To make things worse, a lot of people get emotionally attached to their favourite edition, come to terms with its faults, and then like to get in arguments online about it[^1]. So this can be a contentious topic to discuss, despite the fact that it’s a really common-sense question for a new player to ask.
-
-So, setting out to write this doc, I thought the fairest way to do it was: attempt to give you some moderately objective facts about each version, then give the microphone to a ride-or-die megafan of each version in turn to make the case why this is the one you should play. Hopefully this will give you a rounded perspective; though not, perhaps, the easy answer you were seeking.
-
-
-## Before we start: obvious tie-breakers
-
-Given that there is no right answer, there’s a couple of factors that might make the decision for you without much further thought:
-
-
-
-1. **If you or anyone at your table already has some experience of one specific Shadowrun version** - probably pick that one. Shadowrun can be hard work to get started with. Prior experience smooths over that significantly, so it is pretty valuable.
-2. **If you or anyone at your table already owns a lot of books for one specific Shadowrun version** - probably pick that one. Unless you’re desperately keen to spend more money, anyway.
-3. **If community support is important to you** - pick 5e. It’s currently (by far) the most commonly played edition, and therefore has the liveliest threads. If you ask random questions on community forums or Reddit, you’re more likely to get good answers quickly if they’re about 5e. It also has the best selection of digital tools available, such as chargen utilities, or Roll20 character sheets if you play online. It has the largest number of fan-made materials, like quick reference documents. Finally, it has a huge number of officially published sourcebooks available.
-
-
-## Versions at a glance
-
-_You might also like to see my [Shadowrun Through The Ages](https://docs.google.com/document/d/1CgYPNt4ZhMIZWSCKbmqyhgrtaNTgRUKdU2iwXH_lczU/edit#) side-by-side breakdown of specific game mechanics in each edition. It can give you a flavour of how each edition changed._
-
-
-<table>
-  <tr>
-   <td>
-   </td>
-   <td>1e
-   </td>
-   <td>2e
-   </td>
-   <td>3e
-   </td>
-   <td>4e/4e20A
-   </td>
-   <td>5e
-   </td>
-   <td>6e
-   </td>
-  </tr>
-  <tr>
-   <td>Publisher
-   </td>
-   <td colspan="2" >FASA
-   </td>
-   <td>FASA / Wizkids
-   </td>
-   <td>Wizkids / Catalyst
-   </td>
-   <td colspan="2" >Catalyst
-   </td>
-  </tr>
-  <tr>
-   <td>Core mechanic
-   </td>
-   <td colspan="3" >Skill or stat; variable target number
-   </td>
-   <td colspan="3" >Skill+stat; variable dice pool
-   </td>
-  </tr>
-  <tr>
-   <td>Tone
-   </td>
-   <td colspan="3" >Retro-futuristic
-   </td>
-   <td colspan="3" >Some transhumanist/sci-fi themes
-   </td>
-  </tr>
-  <tr>
-   <td>Matrix & comms tech
-   </td>
-   <td colspan="3" >Wired & chunky; voice-only cellphones & PDA-like pocket computers; some “dungeon crawling” Matrix
-   </td>
-   <td colspan="3" >Wireless & sleek; smartphones; Matrix stuff somewhat more integrated into gameplay
-   </td>
-  </tr>
-  <tr>
-   <td>Deckers exist as a distinct role?
-   </td>
-   <td colspan="3" >Yes
-   </td>
-   <td>Sometimes
-   </td>
-   <td colspan="2" >Yes
-   </td>
-  </tr>
-  <tr>
-   <td>Editing quality / organisation
-   </td>
-   <td colspan="3" >Good
-   </td>
-   <td>Mostly good; later books poor
-   </td>
-   <td>Poor
-   </td>
-   <td>Poor
-   </td>
-  </tr>
-  <tr>
-   <td>Roll20 charsheet?
-   </td>
-   <td>No
-   </td>
-   <td>Yes
-   </td>
-   <td>No
-   </td>
-   <td>No
-   </td>
-   <td>Yes
-   </td>
-   <td>No
-   </td>
-  </tr>
-  <tr>
-   <td>Sourcebook selection, community support, quick ref material, digital tools
-   </td>
-   <td colspan="3" >Good (see r/oldschoolShadowrun & its discord; particular focus on 1e)
-   </td>
-   <td>Good
-   </td>
-   <td>Great
-   </td>
-   <td>Weak
-   </td>
-  </tr>
-</table>
-
-
-
-### Tone through the ages
-
-
-
-*   1e through 3e are a bit more “pure ‘80s cyberpunk”: chunky cyberdecks with QWERTY keyboards, everything is plugged in with cables, simplistic (and very expensive!) smartphones, people call the police via phone booths and receive breaking news via faxes. At the time, this was futuristic; to modern eyes, it’s fair to describe it as “retro-futurism.”
-*   4e onwards increasingly introduce more modern elements into the setting, including transhumanism and more obvious sci-fi. These editions have wireless charging, laser weapons, railguns, nanotechnology, and ubiquitous augmented reality. In later 5e books there is even anti-gravity tech and a colony on Mars. Everyone has a smartphone analog (“commlinks”) capable of full wireless Matrix access; hacking is via devices that look like tablet computers.
-
-
-### Deckers through the ages
-
-
-
-*   1e-3e feature deckers who are quite “disconnected[^2]” from the rest of the team: they have Matrix “dungeon crawls” that can involve a prolonged exploration of computer systems while the other characters might not have anything to do. This can be a challenge for GMs to manage. 
-
-
-*   4e attempts to address this by adding the ability to get hacking done to any character willing to spend money on gear, so at least all the characters can participate in hacking together. The addition of the wireless Matrix means hackers also have things they can hack in real-time during combat. But this dilutes the iconic cyberpunk hacker tropes. Many people felt this was a net loss. _(But they are wrong! -Tony, 4e advocate)_
-*   5e & 6e revert back to having a distinct decker role, but continue to try to offer deckers the ability to act in concert with everyone else through wireless hacking. But again, complex Matrix actions can involve the decker doing their own thing for prolonged periods while the rest of the team is idle. GMs still need to work to manage this, although it’s not as tricky as with 1e-3e. Some tables still take an “all decking is done by NPCs” approach.
-
-
-### Dice mechanics through the ages
-
-Shadowrun started in 1e with a kitchen sink approach to dice mechanics: variable target numbers, dice pools, and two different vectors of modifiers for difficulty -- plus opposed and resisted rolls, and other mechanics. Some of these were phased out gradually, others still exist in modern Shadowrun.
-
-
-
-*   **Variable** **target numbers**: roll a number of dice equal to your skill, against a target number set by the difficulty of the task. Count the number of dice that succeed. 
-*   The target number would be further modified by the situation, as would the number of dice you rolled.
-*   With variable targets, the target might be higher than 6; this required the **rule of 6**.  If you roll a 6, you re-roll and add the next roll to 6, and keep going until you beat the target. If at least one dice beats the target, you succeed. 
-    *   This results in some odd maths because 6 and 7 have the same probability of being rolled, but the system doesn’t adjust for that. Taking a +1 penalty to a target number of 5 and one to a target number of 8 has a very different effect on your chances of making the roll. 
-
-Variable targets were phased out over 2e & 3e, for a static target number of 4, although sometimes they could still vary, and it would still be modified up or down by situational modifiers.
-
-In addition to the above, SR1-3e have “**dice pools**”: some number of dice that the player can choose to use on important or difficult tasks. Once used, though, they couldn’t be used again until the pool refreshed - typically the next turn. These dice pools are derived from your character’s skills and attributes and are the primary way attributes affect their chances of success. This can be a fair bit of book-keeping, as each character has multiple pools to draw upon, that must all be tracked as they are used and later refreshed. However they do give players a good amount of tactical agency.
-
-**From 4e and onwards, there is a major change to these mechanics**. The “dice pool” term is re-used, now defined to mean “your skill rating plus the rating in a linked attribute”; for example, to shoot a gun, you might use a number of dice equal to the number in your Pistols skill plus the number in your Agility attribute. The target number is always 5 and situational modifiers only influence the number of dice you roll. This results in a smoother probability curve, but you’re rolling (and counting) a lot of dice. 20+ is quite common; 30+ is possible; for very powerful characters 40+ isn’t unheard of. 
-
-**5e introduced a system-wide mechanism called “limits”** in an attempt to curb powergaming. Each character has a set of intrinsic limits, derived from their attributes, which cap the maximum number of successes they can achieve on a test, regardless of how many dice they roll through combinations of high skills, expensive gear, magic spells, etc. It is also used for some gear, eg. the accuracy rating of a gun is applied as a limit on the hits when rolling to attack with it. Limits are often criticised for being fiddly to apply and ineffective at stopping players becoming very powerful. They were dropped in 6e. 
 
 
 ## 
@@ -201,30 +23,6 @@ In addition to the above, SR1-3e have “**dice pools**”: some number of dice 
 ## First Edition (1989, FASA)
 
 
-<table>
-  <tr>
-   <td><strong><a href="https://www.reddit.com/user/AstroMacGuffin/comments/f4j9o9/why_1st_edition_shadowrun/">u/AstroMacGuffin</a>:</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>The root of my undying love for first edition Shadowrun is that it is too good to be left behind. Second edition isn't simply a “1e but fixed”, it's also fundamentally changed in a few places. Comparing 1e to later editions generally, nobody will ever convince me that a 300 page book is somehow a streamlined version of a 200 page book. Meanwhile, plenty of people make almost all of 1e work to great effect (frag you, vehicle combat rules). My nostalgia is happy sticking up for the underdog edition.
-<p>
-But besides that, some other reasons I'm on this weird hill:
-<p>
-There's a “less is more” effect in play: 1e puts greater emphasis on the heist, or on being a detective, or whatever's your flavor of underbelly RP, and it adds that emphasis by having fewer rules (and sometimes simpler rules).
-<p>
-Every player has a chance to shine in their unique way because at the same time the rules are diverse and thus bent toward emphasizing play style. There is no same-y-ness between magician, decker, muscle, and detective play styles, nor is there any of that pesky streamlining to narrow down the number of viable play styles per role. This is a game for going as far off the beaten path with a character concept as you could want and still be viable as a shadowrunner, all in barely 200 pages.
-<p>
-Variable staging numbers on weapon damage represent important parts of the simulation and were a key part of characterizing weapons. Higher staging numbers mean a character must be skillful in order to do extra damage, and that the target had better stay out of the field of attack. Lower staging numbers mean you could accidentally decapitate yourself with the weapon, but it's reasonably easy to deflect with a little skill. That's a lot to lose in the name of streamlining and so I still don't know what they thought they were going to gain by removing variable staging from the game.
-<p>
-The classic priority system and other parts of character generation all dictate that the player must get creative. Harsh constraints just have that effect, and 1e's character build rules are both generous and difficult to overcome.
-<p>
-1e is the most basic system. If something isn't covered in the rules you do some kind of Test and move on with the game. It's more personal, tactile, that way.
-<p>
-By keeping the simulation a little simpler, 1e's rulebook is smaller and looks more approachable. The game requires patching and house ruling, and the GM must take extensive notes, but I like that. The structure of the book's information needed a lot of work, and sometimes I'm thankful for a clarification from 2e or 3e, or for something introduced in the 2e equipment chapter; but I find that a physically thicker, larger book is intimidating to new players, and more expensive as a ticket price, and that's before you count the extra cost of time getting familiar.
-   </td>
-  </tr>
-</table>
 
 
 
@@ -252,77 +50,6 @@ _Sometimes described as “a polished version of first edition”, it’s close 
 
 *   Chargen tool - [NSCRG](https://shadowrun3.webs.com/nsrcg)
 
-<table>
-  <tr>
-   <td>
-<strong><a href="https://www.reddit.com/r/Shadowrun/comments/f89hka/which_edition_of_shadowrun_faq/finibbk/">u/JessickaRose</a>:</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>If I misremembered something or forgot something, please feel free to correct, but I'll just ignore any "but X edition is better because Y" responses, that's not what I'm here to do. I just want to clarify a few things that are often misunderstood, and explain key differences.
-<p>
-I'll try to keep it sweet and compartmentalised, and I won't get bogged down in which is best and why you should play it. I play 4eA at the moment, and we're unlikely to go back to 3e but it definitely did some things better than later editions in my opinion.
-<p>
-People get bogged down and scared because 'high target numbers', but in most circumstances it's no more or less crunchy than 4eA, indeed many of the modifiers are literally the same number, they just modify the base of 4 rather than adjust from your dice pool. In either case, number of successes equates to degree of success. The difference is simply rolling a fixed dice pool based on skill+stuff against that modified number, or rolling your modified dice based on skill+att+stuff pool against 5.
-<p>
-3e also has dice pools based on your stats. (not the same as what 4e onwards calls “dice pools”) - Combat/Spell/Hacking - which allow you some flexibility as to where you want to really put in the extra effort. You also have a Karma Pool, which naturally grows over time as you earn karma. In later editions, these mechanics became 'Edge' but as taht is just an attribute you can boost it doesn’t reflect gaining experience the same way.
-<p>
-It's a more deadly system, the way damage is stepped from L through to D means a lot of damage can happen very quickly, you only need 4 net hits to step from M (3 boxes) through to D (10 boxes). You can bleed out fast, and you only ever get one Hand of God, which is very costly. Furthermore, armour acts to reduce the target number of a soak roll, but the roll itself is only your Body dice - so a Body 2 mage is going to get hurt no matter how much kevlar you wrap them in.
-<p>
-However, while more deadly, 3e is more forgiving of cinematic action gameplay. Your dice pool will never say 'no': Jonny the Mage can pick up that discarded shotgun, take that shot in the rain through eyes filled with blood from casting drain, and take down that last bad guy whose only illumination is a flickering street light to save the day. It probably won't happen with 2 dice against a target number of 37, but he can try (and I've seen people pull off even more remarkable feats that the whole table enjoyed).
-<p>
-I think that may be the point where people get the bad impressions from it, as there isn't really a 'no you can't' point of running out of dice, because there will be a number you can crunch out to say 'you need this to do it'. That can make it a little slower to work out the nuances, as those less than practical actions come up a little more, but the payoff is characters pulling off superhuman efforts, which is part of role playing and part of why you spent a fortune on that 'ware.
-<p>
-Defaulting between weapon types is more logical; you take a +2 modifier for, say, picking up an Assault Rifle when you do not have the Rifle skill. +4 to default to a stat.
-<p>
-Perception is just an Int roll, not a skill. Athletics and Stealth are their own skills as well, so between these I think you're not stuck with quite so many "must have" skills, like Climbing, Running, Infiltration, Shadowing, and indeed Perception which limits choices outside of them. That streamlines things a lot outside of combat, as well as in creation.
-<p>
-There are a couple of creation systems, both point build and priority.
-<p>
-No Vampires, no AIs, no Free Spirits, no Pixies, no Sasquatches... Changelings came in in YotC.
-<p>
-<strong>Magic:</strong>
-<p>
-Mages and Shaman are much more distinct.
-<p>
-Mages are depicted as scholars, they summon Elemental which they must bind to their will, they'll have a Hermetic Library, they're not bound by the whims of a Totem, although they might have a bent based on their Tradition.
-<p>
-Shaman are more primal, they have to follow a Totem which gives them bonuses and penalties, and a path of behaviour. They summon Nature Spirits which are bound by Domain, and can't call upon an army of them as Mages can Elementals - however, they're free, on demand, and offer a little more versatility. Some Totems switch out Nature Spirits for Spirits of the Elements.
-<p>
-There are other Traditions with their own selections of Spirits and rules such as Voodoo and Wuxing.
-<p>
-Spellcasting is much the same regardless of tradition. However, unlike later editions, spells are learned by Force, so if you want to overcast a Force 9 Powerbolt, you’ve got to learn Force 9 Powerbolt as an individual spell - which is a tough roll just to learn the spell.
-<p>
-Magic Loss is kind of a big deal, it can happen just from taking Deadly wounds, it isn't recoverable except through initiation, and you have to offset with Geasa - so you’re not likely to risk using slap patches. If you don't offset, you lose it forever.
-<p>
-Spell Defence also means allocating some of your Sorcery and Spell Pool to that, which means you have less to be offensive with. Because yeah, Sorcery is a skill, Ritual and Counterspelling aren't separate, nor are Binding and Banishing separate from Conjuring.
-<p>
-I think Magic is a little less strong in 3e than 4e because of how spell defence works.
-<p>
-<strong>Cyberware:</strong>
-<p>
-Cyberlimbs allow for breaking down of pieces and partial installations, like if you have a cyberarm, you cut the price of the dermal sheathing on the rest of you by 20%, or if you want to install a smartlink and already have an image link and the induction pad can be installed in that cyberarm, you only need the limited simrig and processor. Limbs add more body rather than damage boxes, because you get 10 boxes regardless of how tough you think you are. Dermal plating, bone lacing etc also adds to Body, not armour.
-<p>
-Having loads of 'ware would also increase your signature for targeting by sensor weapons.
-<p>
-Bioware uses its own “bio-index”, which is even worse on magic than cyberware, as it doesn't just reduce your magic rating, it does so in a way you can't offset with geasa.
-<p>
-I think this actually offers better granularity and they are actually easier to track as separate systems than "one costs half the Essence of the more expensive pile". Though the effect on magic is really harsh.
-<p>
-<strong>Riggers:</strong>
-<p>
-Drone-riggers and getaway-driver-riggers are more distinct through skillsets, expense, and do not mean you can also try your hand at decking. Learning to rig a CCSS system to take over a building can be useful though.
-<p>
-<strong>Decking:</strong>
-<p>
-Is very much its own thing, probably a bit too far from the rest of the group. You have data size and memory to think about, I/O speeds of your connection, and might end up running a different dungeon crawl to the rest of the team. Definitely possible to run a combat decker and go in with the team, hack standalones/closed systems, depends how your GM sets you up, but it's also entirely possible to be playing a completely different game.
-<p>
-Your own team is also less liable to get Hacked themselves, Electronic warfare is something only the rigger might worry about, because Wireless is a very limited thing, so no Hacking the security team's guns either. There might be sentry guns and stuff you can play with, but the kind of Matrix overwatch is I think a bit different.
-<p>
-There are no technomancers, and otaku (a sort of prototypical technomancer) are bad.
-   </td>
-  </tr>
-</table>
 
 
 
