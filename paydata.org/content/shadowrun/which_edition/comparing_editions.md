@@ -75,10 +75,10 @@ weight: 100
    <td>No</td>
   </tr><tr>
    <td>Sourcebook selection, community support, quick ref material, digital tools</td>
-   <td colspan="3" >Good (see r/oldschoolShadowrun & its discord; particular focus on 1e)</td>
+   <td colspan="3">Good</td>
    <td>Good</td>
    <td>Great</td>
-   <td>Weak</td>
+   <td>Good</td>
   </tr>
 </table>
 
@@ -108,15 +108,17 @@ Shadowrun started in 1e with a kitchen sink approach to dice mechanics: variable
 
 
 
-*   **Variable** **target numbers**: roll a number of dice equal to your skill, against a target number set by the difficulty of the task. Count the number of dice that succeed. 
+*   **Variable target numbers**: roll a number of dice equal to your skill, against a target number set by the difficulty of the task. Count the number of dice that succeed. 
 *   The target number would be further modified by the situation, as would the number of dice you rolled.
 *   With variable targets, the target might be higher than 6; this required the **rule of 6**.  If you roll a 6, you re-roll and add the next roll to 6, and keep going until you beat the target. If at least one dice beats the target, you succeed. 
     *   This results in some odd maths because 6 and 7 have the same probability of being rolled, but the system doesn’t adjust for that. Taking a +1 penalty to a target number of 5 and one to a target number of 8 has a very different effect on your chances of making the roll. 
 
 Variable targets were phased out over 2e & 3e, for a static target number of 4, although sometimes they could still vary, and it would still be modified up or down by situational modifiers.
 
-In addition to the above, SR1-3e have “**dice pools**”: some number of dice that the player can choose to use on important or difficult tasks. Once used, though, they couldn’t be used again until the pool refreshed - typically the next turn. These dice pools are derived from your character’s skills and attributes and are the primary way attributes affect their chances of success. This can be a fair bit of book-keeping, as each character has multiple pools to draw upon, that must all be tracked as they are used and later refreshed. However they do give players a good amount of tactical agency.
+In addition to the above, SR1-3e have "**dice pools**": some number of dice that the player can choose to use on important or difficult tasks. Once used, though, they couldn’t be used again until the pool refreshed - typically the next turn. These dice pools are derived from your character’s skills and attributes and are the primary way attributes affect their chances of success. This can be a fair bit of book-keeping, as each character has multiple pools to draw upon, that must all be tracked as they are used and later refreshed. However they do give players a good amount of tactical agency.
 
 **From 4e and onwards, there is a major change to these mechanics**. The “dice pool” term is re-used, now defined to mean “your skill rating plus the rating in a linked attribute”; for example, to shoot a gun, you might use a number of dice equal to the number in your Pistols skill plus the number in your Agility attribute. The target number is always 5 and situational modifiers only influence the number of dice you roll. This results in a smoother probability curve, but you’re rolling (and counting) a lot of dice. 20+ is quite common; 30+ is possible; for very powerful characters 40+ isn’t unheard of. 
 
 **5e introduced a system-wide mechanism called “limits”** in an attempt to curb powergaming. Each character has a set of intrinsic limits, derived from their attributes, which cap the maximum number of successes they can achieve on a test, regardless of how many dice they roll through combinations of high skills, expensive gear, magic spells, etc. It is also used for some gear, eg. the accuracy rating of a gun is applied as a limit on the hits when rolling to attack with it. Limits are often criticised for being fiddly to apply and ineffective at stopping players becoming very powerful. They were dropped in 6e. 
+
+[^2]: Pun intended. Sorry.
