@@ -16,3 +16,5 @@ Weight: 100
 <em>discuss this document: (<a href="https://www.reddit.com/r/Shadowrun/comments/f89hka/which_edition_of_shadowrun_faq/">Reddit thread</a>)</em></p>
 
 
+
+
