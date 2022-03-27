@@ -7,8 +7,11 @@ weight: 100
 ---
 
 
+{{% pageinfo %}} 
+I also have a doc that  breaks down key game systems (combat, initiative, spellcasting, ...) and compares them, line by line and side by side, in all six major releases of Shadowrun.
 
-<!--_You might also like to see my [Shadowrun Through The Ages](https://docs.google.com/document/d/1CgYPNt4ZhMIZWSCKbmqyhgrtaNTgRUKdU2iwXH_lczU/edit#) side-by-side breakdown of specific game mechanics in each edition. It can give you a flavour of how each edition changed._ -->
+It's difficult to present as a web page - it has very large tables - so you can [download it as a PDF instead](/pdfs/Shadowrun_through_the_ages.pdf).
+{{% /pageinfo %}}
 
 
 <table>

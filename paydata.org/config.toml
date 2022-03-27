@@ -1,6 +1,6 @@
 baseURL = "https://paydata.org/"
 languageCode = "en"
-title = "paydata.org | cyberpunk TTRPGs"
+title = "paydata.org"
 theme = "docsy"
 
 # Seem to be broken right now
@@ -58,6 +58,11 @@ footer_about_disable = false
 	url = "https://www.reddit.com/user/penllawen"
 	icon = "fab fa-reddit"
         desc = "Find me on Reddit"
+[[params.links.user]]
+	name ="Discord"
+	url = "https://discordapp.com/users/459741920370098176"
+	icon = "fab fa-discord"
+        desc = "Find me on Discord"		
 
 
 [markup]

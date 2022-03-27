@@ -6,6 +6,10 @@ date: 2022-03-12
 weight: 50
 ---
 
+{{% pageinfo %}} 
+[Click here to view this entire FAQ on one page](/shadowrun/which_edition/_print/).
+{{% /pageinfo %}}
+
 ## Why this is a difficult question
 
 **When it comes to Shadowrun editions, there are no easy answers; only annoying compromises. Sorry!**
