@@ -37,7 +37,6 @@ The changes/tweaks I have proposed are more about aesthetics than they are about
 
 * For visual elements: either cybereyes, or wearing glasses/goggles/a monocle, or using your commlink. The glasses literally overlay your visual field with the AR elements, which avoids a lot of the complex overhead necessary in a cybernetic approach. As a last resort, you can even use caveman methods - hold your commlink up and move it around, using its screen as a viewport onto AR cyberspace. This has a cost advantage; even the cheapest 'link can do this, and with no additional hardware. 
 	* Resolution and focus of AR elements is limited when using glasses/goggles. Reading large amounts of text for long periods is likely to cause nasty migraines.
-	* People looking at you can tell you have AR running; tiny blinking patches of light leak out of the glasses. Some people consider this rude.
 * For auditory elements: either cyberears or wearing earbuds.
 * For tactile elements: either cyberarms/hands or wearing special force-feedback gloves. The gloves are quite crude in terms of the "realness" of the feedback they offer.
 	* Without tactile elements, AR control surfaces are downright clumsy to use. Touch targets have to be rendered large enough that the user can use them, and even so, prolonged use is frustrating as mis-taps are just frequent enough to annoy you.
@@ -45,6 +44,10 @@ The changes/tweaks I have proposed are more about aesthetics than they are about
 Combined, these mean that society does not run on AR, because AR has not reached a big enough critical mass so that it can entirely replace other display methods. It is common but it is far from ubiquitous. Street signs still exist. Most restaurants still have signs on the door (except for the occasional try-hard hipster speakeasy trying to summon some mystique.) Keyboards still exist, as do monitors and TV screens. 
 
 AR is more about how you interact with your gear than it is about how the world presents itself to you. 
+
+Regarding the use of glasses for AR projection... People looking at you can tell you have AR running; tiny blinking patches of light leak out of the glasses. Some people consider this rude. 
+
+Some people are extremely paranoid about data leaking this way - about someone being able to read what their AR display says, even though a practical attack has never been effectively demonstrated. They get around this by wearing mirrorshade AR projecting sunglasses that don't leak any light; the mirrored outer surface ensures onlookers cannot tell what is on the display. The 'shades also run a very mild light amplification algorithm that mean the wearer isn't disadvantaged wearing them, even at night.
 
 ## Limiting virtual reality
 
