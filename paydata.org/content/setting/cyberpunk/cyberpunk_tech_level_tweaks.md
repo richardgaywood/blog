@@ -65,7 +65,7 @@ Some people are extremely paranoid about data leaking this way - about someone b
 
 *Reasoning: this is just to try and clean up the profusion of overlapping interface modes and Matrix stuff that Shadowrun offers.*
 
-You are in VR (ie: full simsense, body in ragdoll RAS-override mode) when you are in a host system. All Matrix actions done not in a host are done in AR. The action of entering a host and the action of switching to VR are the same action.
+You are in VR (ie: full simsense, body in ragdoll RAS-override mode) when you are in a host system. All Matrix actions carried out while not in a host use AR. Entering a host and switching to VR are the same action.
 
 AR hacking is not necessarily done entirely through the datajack’s neural interface (see the next section); many hackers use either physical or AR keyboards and other control surfaces in combination with mental commands.
 
@@ -120,11 +120,15 @@ Smartguns use a subdermal induction pad mounted in the user's palm and the gun's
 Nanotech is in its infancy. It can do two things well: 
 
 1. **Very simple tasks in complex environments**. An example of this is cyberware implantation, where nanobots carry out minimally-intrusive installation of subdermal wiring and splicing of technology onto nerve shunts. Viewed from a nanotech scale, these are relatively large pieces of engineering.
-2. **Complex tasks in very simple environments**. An example of this is orbital factories that produce nanosteel, aerogels, exotic carbon matrices, and other materials in hard vacuum / microgravity conditions. These nanobots cannot be used on Earth, as they cannot deal with any environmental complications while nudging carbon atoms accurately into place inside a molecular iron lattice. 
+2. **Complex tasks in very simple environments**. An example of this is orbital factories that produce nanosteel, aerogels, exotic carbon matrices, and other materials in hard vacuum / microgravity conditions. 
 
-Most nanomaterials cannot be constructed on Earth. Nanobots cannot achieve precision tasks inside the complex environment of the human body; nanoware does not exist. Nanobots are expensive to produce and are totally tailored to one very narrow task; there are no "general purpose" or programmable nanobots. Desktop nanoforges are not a thing. 
+All bar the very simplest of nanomaterials cannot be constructed on Earth. The nanobots cannot deal with any environmental complications while nudging atoms accurately into place.  As orbital factories remain hideously expensive, manufacturing of nanomaterials is something the very largest megacorps keep a ruthless monopoly on.
 
-(NB: "nanotech" is a misnomer. The 'bots that carry out the procedures are built on the scale of hundreds of nanometers and operate on material on a scale of, at best, tens-of-nanometers.)
+Nanobots also cannot achieve precision tasks inside the complex environment of the human body; "nanoware" is theorised about but does not practically exist. 
+
+Nanobots are expensive to produce and are totally tailored to one very narrow task; there are no "general purpose" or programmable nanobots. Desktop nanoforges are not a thing. 
+
+(NB: "nanotech" is an in-universe misnomer. The 'bots that carry out the procedures are built on the scale of hundreds of nanometers and operate on material on a scale of, at best, tens-of-nanometers.)
 
 
 
