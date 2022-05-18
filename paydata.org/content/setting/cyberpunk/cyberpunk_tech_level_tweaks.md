@@ -115,7 +115,7 @@ Smartguns use a subdermal induction pad mounted in the user's palm and the gun's
 
 ## Nanotech
 
-*Reasoning: full-on nanotech, especially nanoware and nanoforges, pushes the tech level further than I am comfortable with.*
+*Reasoning: full-on nanotech, especially nanoware and nanoforges, pushes the tech level further than I am comfortable with. I also want to give orbital factories a very concrete reason to exist that justifies their colossal expense, as well being something specific and valuable that only the megacorps can do.*
 
 Nanotech is in its infancy. It can do two things well: 
 
