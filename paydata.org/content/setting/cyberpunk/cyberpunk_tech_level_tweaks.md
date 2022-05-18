@@ -12,7 +12,7 @@ I have several slightly opposing goals for how I want my Shadowrun setting to fe
 1. I desire a "classic cyberpunk" feel that is roughly aligned with Shadowrun 2e and the foundational works of cyberpunk fiction from the '90s. 
 1. But at the same time, I think the cyberpunk genre derives a lot of its power from feeling like it is near-future – and not retro-future or far-future. Character's problems and the shape of the world they inhabit should feel recognisable to us. 
 
-    So I also want the world to reflect 20+ years of real-world technological advancement that has occurred in the last thirty years. ShR5e and 6e do this, most notably in the form of the wireless Matrix and all that goes with it.
+    So I also want the fictional world to reflect the real-world technological advancements of the last thirty years. ShR5e and 6e do this, most notably in the form of the wireless Matrix and all that goes with it.
 1. However, I do not want technology to be too advanced. I do not want my game to start to feel more like general sci-fi. ShR 5e and 6e definitely do this, to my mind.
 1. I don't want to stuff to work *too* well. Cyberpunk tech (or at least, the tech within reach of our players) should be like real-world tech: buggy, flawed, unreliable, sometimes frustrating. I don't want it to have this high-tech sheen where everything works and nothing has any downsides. 
 
