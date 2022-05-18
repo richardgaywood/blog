@@ -3,26 +3,29 @@ title: Tweaking Shadowrun's tech level
 description: Trying to maximise the 'cyberpunk feel' by reducing technological sophistication
 type: docs
 date: 2022-05-17
+modified: 2022-05-18
 ---
 
 
-I have several slightly opposing goals for how I want my Shadowrun setting to feel, at least in terms of the sophistication of technology.
+I have several slightly opposing goals for how I want my Shadowrun setting to feel, at least in terms of the sophistication of technology. 
 
-* I desire a "classic cyberpunk" feel that is roughly aligned with Shadowrun 2e and the foundational works of cyberpunk fiction from the '90s. 
-* But at the same time, I think the cyberpunk genre derives a lot of its power from feeling like it is near-future – and not retro-future or far-future. Character's problems and the shape of the world they inhabit should feel recognisable to us. 
+1. I desire a "classic cyberpunk" feel that is roughly aligned with Shadowrun 2e and the foundational works of cyberpunk fiction from the '90s. 
+1. But at the same time, I think the cyberpunk genre derives a lot of its power from feeling like it is near-future – and not retro-future or far-future. Character's problems and the shape of the world they inhabit should feel recognisable to us. 
 
     So I also want the world to reflect 20+ years of real-world technological advancement that has occurred in the last thirty years. ShR5e and 6e do this, most notably in the form of the wireless Matrix and all that goes with it.
-* However, I do not want technology to be too advanced. I do not want my game to start to feel more like general sci-fi. ShR 5e and 6e definitely do this, to my mind.
-* I don't want to stuff to work too well. Cyberpunk tech (or at least, the tech within monetary reach of our players) should be like real-world tech: buggy, flawed, unreliable, sometimes frustrating. I don't want it to have this high-tech sheen where everything works and nothing has any downsides. 
+1. However, I do not want technology to be too advanced. I do not want my game to start to feel more like general sci-fi. ShR 5e and 6e definitely do this, to my mind.
+1. I don't want to stuff to work *too* well. Cyberpunk tech (or at least, the tech within reach of our players) should be like real-world tech: buggy, flawed, unreliable, sometimes frustrating. I don't want it to have this high-tech sheen where everything works and nothing has any downsides. 
 
 Hence: I want to somehow find a way to blend these different approaches. This document attempts to do that for some aspects.
 
 The changes/tweaks I have proposed are more about aesthetics than they are about rules. Nothing here is changed for game balance reasons, and mostly they don’t result in any mechanical changes at all. It's just about how the fictional world looks, works, and feels. 
 
+{{% alert title="Notes" %}}This has been [posted to Reddit](https://reddit.com/r/Shadowrun/comments/us8ynn/tweaking_modern_shadowruns_tech_level_for_a_more/).{{% /alert %}}
+
 ## Tech to remove completely
 
 * *Antigravity* - I mean, c'mon.
-* *Practical energy weapons* - you can _make_ a laser cannon, but you can't power it from any sort of man-portable (or even troll-portable) energy cell.
+* *Practical energy weapons* - you can _make_ a laser cannon, but you can't power it from any sort of man-portable (or even troll-portable) energy cell. Damaging lasers are strictly industrial tools or field artillery.
 
 ## Limiting augmented reality
 
@@ -30,17 +33,16 @@ The changes/tweaks I have proposed are more about aesthetics than they are about
 
 **Datajacks / DNI cannot be used for AR**. AR requires realtime integration of synthetic content into your normal senses, whereas simsense replaces your normal senses entirely. In order to add digital content to your sensorium, your sensorium first has to be digitised.
 
-**This means there are two ways to get AR features: cyberware or gear**.
+**This means there are two ways to get AR features: sensory cyberware or gear**.
 
 * For visual elements: either cybereyes, or wearing glasses/goggles/a monocle, or using your commlink. The glasses literally overlay your visual field with the AR elements, which avoids a lot of the complex overhead necessary in a cybernetic approach. As a last resort, you can even use caveman methods - hold your commlink up and move it around, using its screen as a viewport onto AR cyberspace. This has a cost advantage; even the cheapest 'link can do this, and with no additional hardware. 
+	* Resolution and focus of AR elements is limited when using glasses/goggles. Reading large amounts of text for long periods is likely to cause nasty migraines.
+	* People looking at you can tell you have AR running; tiny blinking patches of light leak out of the glasses. Some people consider this rude.
 * For auditory elements: either cyberears or wearing earbuds.
 * For tactile elements: either cyberarms/hands or wearing special force-feedback gloves. The gloves are quite crude in terms of the "realness" of the feedback they offer.
+	* Without tactile elements, AR control surfaces are downright clumsy to use. Touch targets have to be rendered large enough that the user can use them, and even so, prolonged use is frustrating as mis-taps are just frequent enough to annoy you.
 
-Without tactile elements, AR control surfaces are downright clumsy to use. Touch targets have to be rendered large enough that the user can use them, and even so, prolonged use is frustrating as mis-taps are just frequent enough to annoy you.
-
-Resolution and focus of AR elements is limited when using glasses/goggles. Reading large amounts of text for long periods is likely to cause nasty migraines.
-
-Combined, these mean that society does not run on AR, because AR has not reached a big enough critical mass so that it can entirely replace other display methods. Street signs still exist. Most restaurants still have signs on the door (except for the occasional hipster speakeasy trying to create some mystique.) Keyboards still exist, as do monitors and TV screens. 
+Combined, these mean that society does not run on AR, because AR has not reached a big enough critical mass so that it can entirely replace other display methods. It is common but it is far from ubiquitous. Street signs still exist. Most restaurants still have signs on the door (except for the occasional try-hard hipster speakeasy trying to summon some mystique.) Keyboards still exist, as do monitors and TV screens. 
 
 AR is more about how you interact with your gear than it is about how the world presents itself to you. 
 
@@ -72,9 +74,9 @@ All VR is “hotsim” and hence has the capability for weaponised software to h
 
 *Reminder of terms: DNI is Direct Neural Interface, a brain-computer link. RAS is Reticular-Activation System; a RAS override cuts all normal sensory input and muscle control output from the brain. It is most commonly used for simsense VR.*
 
-Most DNI can only be achieved via a datajack or trodes. Trodes are very finicky to use; in order to work they have to remain fixed in place on the head. Any rapid movement or jostling threatens to dislodge them. They are not the preferred choice. 
+Most DNI can only be achieved via a datajack or trodes. Trodes are very finicky to use; in order to work they have to remain fixed in place on the head. Any rapid movement or jostling threatens to dislodge them. They are not the preferred choice of anyone except the Awakened or the desperately poor. 
 
-As a special case, a smartgun link also achieves a form of DNI via the special connection between the user’s palm and the gun’s onboard processor (see elsewhere in this doc.)
+(As a special case, a smartgun link also achieves a form of DNI via the special connection between the user’s palm and the gun’s onboard processor (see elsewhere in this doc.))
 
 DNI means the user can send commands to their gear by thinking them, but this is a complex process for the hardware involved. Datajacks and trodes find it difficult to clearly read brain activity from a subject who is not in RAS override. The brain stimulation from the subject’s normal senses risks drowning out the brainwave patterns that the hardware needs to interpret as commands. 
 
@@ -94,7 +96,7 @@ While they may offer Matrix control surfaces, these are strictly for secondary c
 
 For example: a cyberarm's primary control method is the nerve splice between the cybernetic component and the user's body. This is how the user issues all normal "commands", ie. moving it around, picking stuff up, deploying cyberclaws, etc. 
 
-All except the cheapest models of arm might also offer a secondary Matrix interface. This is used by the arm to present information to the user that cannot be communicated via a nerve splice, such as diagnostics, service requests, user manuals, and the like. If the arm has functions that are too complex to be mapped onto the nervous control, such as a colour-changing surface coating, they may be controlled here via an AR interface panel. 
+All except the cheapest models of cyberarm might also offer a secondary Matrix interface. This is used by the arm to present information to the user that cannot be communicated via a nerve splice, such as diagnostics, service requests, user manuals, and the like. If the 'arm has functions that are too complex to be mapped onto the nervous control, such as a colour-changing surface coating, they may be controlled here via an AR interface panel. 
 
 Crucially: **hacking attacks over the wireless Matrix can only effect the secondary interfaces** and cannot bypass the device's internal hardware firewall. A hacker cannot shut down or take over someone's arm, or eyes, or any other cyberware. They cannot remotely detonate a grenade or remotely eject a weapon’s magazine. 
 
