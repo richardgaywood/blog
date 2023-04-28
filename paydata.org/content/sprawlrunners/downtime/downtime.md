@@ -11,23 +11,23 @@ aliases: ["/sprawlrunners/characters/downtime"]
 
 ## Currencies
 
-Your character's wealth is represented by three different numbers.
+Your character's wealth is represented by three different numbers, which each capture a different aspect of their financial situation: mission rewards, access to criminal gear, and walking-around money.
 
 ### Payouts
 
 When your characters complete missions, they will typically be paid for this in some form: nuyen on untraceable credsticks, a bundle of hard currency, or some high-value tradeable asset like black market pharma.
 
-These are called Payouts and are used by your character to fund their lifestyle and subsist off between missions. You do not use Payouts to buy things directly; that is handled by your character's LP pool and Petty Cash (see below). 
+These are called Payouts and are used by your character to fund their lifestyle between missions. You do not use Payouts to buy things directly; that is handled by your character's Logistic Points and Petty Cash (see below). 
 
 Each point of Payout you earn from a mission buys you enough time off afterward to complete one of the below Downtime Actions. Missions typically give you 2-4 points of Payout. Once you've run out of Payout, it's time to go back and find some more work.
 
-The exact in-universe amount of money that a Payout is worth isn't concretely defined and is flexible. As your character progresses and does bigger jobs to sustain a more comfortable lifestyle, the numbers go up, but the Payout points remain the same.
+We do not precisely define the amount of in-universe time a downtime action represents, nor the amount of in-universe money a Payout is worth. These vary as the plot demands and as your characters grow more powerful and take on bigger and more dangerous missions.
 
 ### Logistic Points (LP)
 
 LP is an abstract currency that represents lots of things: cash used to buy gear, influence and trust with fixers and fences, favours owed to you, and your reputation as someone who can keep their trap zipped when asked where their illegal arsenal came from.
 
-All gear used on a mission must be purchased with LP. Gear purchased with LP is carefully scrubbed and anonymised. It is clean and untraceable. Smart 'runners dispose of this gear after a mission because you don't want an inconvenient ballistics check resulting in some megacorp joining the dots on your crime sprees.
+All gear used on a mission must be purchased with LP. Gear purchased with LP is carefully scrubbed and anonymised; its ballistics do not appear on any databases, it contains no hidden RFID snitch tags, it has no serial numbers or other tracing. It is clean and untraceable. Smart 'runners dispose of this gear after a mission because you don't want an inconvenient ballistics check resulting in some megacorp joining the dots on your crime sprees. Remember: a 'runners only defence from megacorp retribution is being too well-hidden to be worth tracking down.
 
 (For avoidance of doubt, all rules for LP are as per Sprawlrunners.)
 
@@ -43,9 +43,17 @@ If you run short, you can convert 1 LP to 10 points of Petty Cash. You cannot co
 
 *TODO: write that up in the Edges section!*
 
-* 1 point of Petty Cash is worth about 100 nuyen; enough for one small bribe or a slap-up feast for the whole team at a strip mall noodle cart. 
-* 3 points of Petty Cash is a big enough bribe to get some non-public information at small risk to the bribee. 
-* 5 points is a pretty hefty bribe and is about a week's income for a gig-economy struggling wageslave.
+* 1 point of Petty Cash is enough for one minor bribe or a slap-up feast for the whole team from a strip mall noodle cart. 
+* 2 points of Petty Cash would cover a decent restaurant bill or a buy everyone a round of drinks in a small bar.
+* 3 points of Petty Cash is a big enough bribe to get some non-public information at small risk to the recipient. 
+* 5 points is a pretty hefty bribe, and is about a week's income for a typical lower-income wageslave.
+
+
+## Needy contacts
+
+For each [contact]({{< relref "contact.md" >}}) in your network, draw a card from the action deck. If it's a face card, they need something from you:
+
+* 
 
 ## Downtime action list
 
@@ -55,19 +63,17 @@ A note for my players: you can roll Savage Worlds style dice in Slack with the s
 
 ### Attune spirits
 
-An attuned summoner mage with the Initiate edge can journey to Astral space, explore a new metaplane, and learn its true name. From then on, they can summon spirits from that metaplane whenever they please. You can do this action multiple times in a single downtime phase if you want.
+An attuned summoner mage with the Initiate edge can journey to Astral space, explore a new metaplane, and learn its true name. From then on, they can summon spirits from that metaplane whenever they please. You can do repeat this action multiple times in a single downtime phase if you want.
 
 See [summoning traditions]({{< relref "summoning_traditions.md" >}}).
 
 ### Carouse
 
-Your character decides to blow off some steam and celebrate still being alive. They spend an extended period of time indulging whatever hedonistic vices most appeal to them.
+Your character decides to blow off some steam and celebrate still being alive. They spend an extended period of time indulging whatever hedonistic vices or wholesome hobbies most appeal to them.
 
-Take a one-step penalty to your [wealth die type]({{< relref "wealth.md" >}}) die for the next session.
+Choose a team-mate to drag along and party with. During the next mission, one of you can take a free re-roll on any failed Support roll one of you makes for the other. If you don't use this re-roll before the next Downtime phase, you lose it.
 
-There is no mechanical game benefit to carousing. This is deliberate ;)
-
-**TODO: change**
+Carousing costs you three Petty Cash points at the start of the next mission.
 
 ### Hang out
 
