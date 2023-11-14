@@ -2,11 +2,13 @@
 ---
 title: Furious Hacking in our Sprawlrunners
 linkTitle: Furious Hacking
-type: docs
+type: drafthouserule
 description: Draft proposal for integrating ManuFS's Furious Hacking rules into our game
 date: 2022-04-23
 weight: 1000
 icon: "fa-solid fa-pencil"
+categories:
+  - houserules-draft
 ---
 
 {{< draft >}}
