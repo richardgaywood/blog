@@ -16,20 +16,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0797fae1ae5d6b15",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7dc9fe44031c6972",
-            "type": "leaf",
-            "state": {
-              "type": "hugo-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dc9fe44031c6972",
+  "active": "4ba7d20f9b01a305",
   "lastOpenFiles": [
     "paydata.org/public/sprawlrunners/dice_probabilities/d12_hu13083359873990787811.png",
     "paydata.org/resources/_gen/images/sprawlrunners/dice_probabilities/d12_hu13083359873990787811.png",
