@@ -8,6 +8,11 @@ $ scoop update hugo hugo-extended
 
 # Reminder of what I did with custom category taxonomy pages
 
+pages to read:
+- https://stackoverflow.com/questions/74925319/in-hugo-how-do-i-get-a-the-list-of-pages-in-a-section-from-a-partial-view
+
+
+
 Or at least, what I've tried so far, as (at time of writing) it's not working yet.
 
 1. Define frontmatter in `paydata.org/content/categories/sprawlpedia/_index.md`
