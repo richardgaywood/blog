@@ -25,7 +25,7 @@ This new partial is defined in `paydata.org/layouts/shortcodes/full_taxo_content
 The version in this check-in has a crude example implementation.
 
 
-## Rending stuff in `full_taxo_contents.html`
+## Rendering stuff in `full_taxo_contents.html`
 
 This code in that partial:
 
