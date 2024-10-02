@@ -1,10 +1,23 @@
-# Updating Hugo on Windows
+# Various command quick references
+
+
+Updating Hugo on Windows:
 
 ```
-$ scoop update
-$ scoop update hugo hugo-extended
+winget install hugo.hugo.Extended
 ```
 
+Cleanups:
+
+```
+hugo --cleanDestinationDir
+hugo mod clean
+```
+
+Updating components: 
+1. edit `go.mod`
+1. `hugo mod clean`, `get`, maybe `tidy`
+1. (windows bug?) make files in `C:\git\blog\paydata.org\public\webfonts` to not be read-only
 
 # Reminder of what I did with custom category taxonomy pages
 
