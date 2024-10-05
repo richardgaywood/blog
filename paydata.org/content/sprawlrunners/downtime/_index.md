@@ -9,7 +9,20 @@ categories:
   - irl
 ---
 
-1. Characters complete a mission, and receive financial rewards in the form of a [Payout]({{< ref "payouts.md" >}})
+
+1. Characters complete a mission, and receive compensation in the form of a [Payout]({{< ref "payouts.md" >}}). \
+\
+In-game, this might be hard currency, nuyen, financial instruments like bearer bonds, or a barterable asset such as advanced pharma or even nonpublic information of value to someone the characters know.
+1. After the mission, the characters launder the Payout through various channels into untraceable liquid cash. \
+\
+Most of this cash is used to fund their [Lifestyle]({{< ref "lifestyle.md" >}}). Thie represents not only their day-to-day living but also [Lifetyle Perks]({{< ref "lifestyle.md#perks" >}}), which can help during missions.
+1. Between missions, the characters have [Downtime]({{< ref "downtime.md" >}}). \
+\
+During Downtime, they can spend their time [Downtime Actions]({{< ref "downtime.md#actions" >}}). They can rest, recuperate, prepare for the next mission, and maybe even do a little good on the world -- for whatever their personal value of "good" may be. The bigger the Payout, the longer the Downtime, and the more Downtime Actions they can do.
+
+
+
+_...TODO something about two sides to pc's lives, light vs shadow_
 
 
 <!-- 
