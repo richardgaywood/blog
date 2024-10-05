@@ -1,0 +1,20 @@
+
+{{/*  {{ partial "taxonomy_terms_article.html" (dict "context" .context "taxo" "collections") -}}  */}}
+
+
+{{/*  hmm: https://gohugo.io/templates/taxonomy-templates/#list-terms-assigned-to-a-page  */}}
+
+
+{{/*  method one: define a $posts, then loop over it; not currently working  */}}
+{{/*  {{ $posts := (where $.Site.Pages ".Params.title" "in" "Savage Worlds for Shadowrun players") }}  */}}
+{{/*  {{ $posts := (where $.Site.Pages ".GetTerms.categories" "in" "sprawlpedia") }}  */}}
+{{/*  {{ range $posts }}   */}}
+
+{{/*  method two: directly loop over all pages with this one category, hacky but works  */}}
+{{ range .Site.Taxonomies.collections.sprawlpedia }}
+  <div class="td-content">
+	<h1>{{ .Page.Title }}</h1>
+    {{ with .Page.Params.description }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
+	{{ .Page.Content }}
+</div>
+{{ end }}
