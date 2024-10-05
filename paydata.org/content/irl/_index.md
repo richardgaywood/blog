@@ -4,6 +4,11 @@ linkTitle: "IRL"
 description: How to pass time between crime sprees, and why it might matter
 # type: docs
 weight: 125
+
+menu:
+  main:
+    weight: 15
+no_list: true
 ---
 
 {{% blocks/lead color="primary" %}}

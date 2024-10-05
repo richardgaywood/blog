@@ -1,12 +1,12 @@
 ---
 title: "In Real Life: giving PCs agency between missions"
-linkTitle: "IRL"
+linkTitle: IRL
 description: How to pass time between crime sprees, and why it might matter
-# type: docs
 weight: 125
 categories:
   - rules
   - irl
+draft: true
 ---
 
 <div class="td-default">
