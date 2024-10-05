@@ -6,7 +6,7 @@ weight: 500
 description: Things to do between crime sprees 
 date: 2020-12-06
 lastmod: 2022-01-03
-aliases: ["/sprawlrunners/characters/downtime"]
+aliases: ["/sprawlrunners/characters/downtime", "sprawlrunners/downtime/downtime"]
 categories:
   - rules
 collections:
@@ -33,7 +33,7 @@ Although advancing typically happens _during_ downtime, it does not have to, and
 
 ### Lie low
 
-If you attracted an unusually breathtaking amount of attention on the last run and so have a [Heat Die]({{< relref "heat_die.md" >}}), you will need to skip town for a while until the heat dies down. This takes one of your actions and clears the Heat Die. In extraordinary circumstances (a Heat Die of d10 or more), it might even take multiple actions. Be less obvious next time!
+If you attracted an unusually breathtaking amount of attention on the last run and so have a [Heat Die]({{< relref "heat.md" >}}), you will need to skip town for a while until the heat dies down. This takes one of your actions and clears the Heat Die. In extraordinary circumstances (a Heat Die of d10 or more), it might even take multiple actions. Be less obvious next time!
 
 ### Rest & recuperation
 

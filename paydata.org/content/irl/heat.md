@@ -5,7 +5,8 @@ type: docs
 description: Game mechanics for when you're being hunted
 date: 2021-11-20
 weight: 500
-icon: "fa-solid fa-pencil"
+aliases:
+  - "sprawlrunners/setting/heat_die.md"
 ---
 
 {{< draft >}}
@@ -54,4 +55,4 @@ This will usually take the form of a three-step Dramatic Task. If they can colle
 
 ## Losing heat
 
-For permanently getting rid of heat, see lying low in [Downtime Actions]({{< relref "sprawlrunners/downtime/downtime.md#lie-low" >}}).
+For permanently getting rid of heat, see lying low in [Downtime Actions]({{< relref "sprawlrunners/irl/downtime.md#lie-low" >}}).
