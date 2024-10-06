@@ -55,5 +55,5 @@
       "path": "[[workspace]]/paydata.org/content"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": false
 }
