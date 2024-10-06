@@ -55,5 +55,6 @@
       "path": "[[workspace]]/paydata.org/content"
     }
   ],
-  "frontMatter.git.enabled": false
+  "frontMatter.git.enabled": false,
+  "frontMatter.framework.startCommand": "hugo server -D --source paydata.org"
 }
